@@ -1,0 +1,5 @@
+html * {
+  @if $debug == true {
+    background-color: rgba(green, 0.1);
+  }
+}
